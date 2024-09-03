@@ -5,7 +5,7 @@
     <classes>
       <class name="lesson7.Magento">
         <methods>
-          <include name="AddRandomItem"/>
+          <include name="Signupprocess"/>
           <include name="MyBeforeSetup"/>
           <include name="AfterTest"/>
         </methods>
